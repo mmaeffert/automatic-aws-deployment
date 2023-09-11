@@ -1,0 +1,5 @@
+*.exe
+*.hcl
+*.info
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
